@@ -1,0 +1,16 @@
+[
+  {
+    "cep": "51010-600",
+    "logradouro": "Rua Nova Serrana",
+    "bairro": "Pina",
+    "localidade": "Recife",
+    "estado": "Pernambuco"
+  },
+  {
+    "cep": "51010-520",
+    "logradouro": "Rua do Sol",
+    "bairro": "Pina",
+    "localidade": "Recife",
+    "estado": "Pernambuco"
+  }
+]
